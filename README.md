@@ -2,9 +2,6 @@
 
 A beautiful, responsive flower shop website built with React. Browse, search, filter, and sort through 45+ beautiful flowers with a stunning custom color palette.
 
-![SidBloom Banner](https://via.placeholder.com/1200x400/9A1750/FFFFFF?text=🌸+SidBloom+-+Flower+Boutique)
-
----
 
 ## ✨ Features
 
