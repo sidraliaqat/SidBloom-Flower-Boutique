@@ -14,7 +14,7 @@
       "name": "Red Rose Basket",
       "category": "Roses",
       "price": 42,
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6koieklN5OAilYODfQuBR9bWN1a3KPyuaP9L4qFdCdg&s=10"
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6koieklN5OAilYODfQuBR9bWN1a3KPyuaP9L4qFdCdg&s=10",
       "inStock": false,
       "description": "Romantic red roses in a wicker basket"
     },
