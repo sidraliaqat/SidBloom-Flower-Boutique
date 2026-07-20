@@ -7,7 +7,7 @@ A beautiful, responsive flower shop website built with React. Browse, search, fi
 
 | Feature | Description |
 |---------|-------------|
-| 🌸 **45+ Flowers** | Browse a wide collection of flowers across 9 categories |
+| 🌸 **40+ Flowers** | Browse a wide collection of flowers across 9 categories |
 | 🔍 **Search** | Find flowers by name in real-time |
 | 🏷️ **Filter** | Filter by category (Roses, Tulips, Sunflowers, Lilies, Daisies, Lavender, Orchids, Peonies, Mixed) |
 | 💰 **Sort** | Sort by price (Low-High, High-Low) or name (A-Z) |
