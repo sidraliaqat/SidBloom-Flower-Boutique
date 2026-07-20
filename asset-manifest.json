@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SidBloom-Flower-Boutique/static/css/main.7c7f100d.css",
+    "main.js": "/SidBloom-Flower-Boutique/static/js/main.e7534129.js",
+    "index.html": "/SidBloom-Flower-Boutique/index.html",
+    "main.7c7f100d.css.map": "/SidBloom-Flower-Boutique/static/css/main.7c7f100d.css.map",
+    "main.e7534129.js.map": "/SidBloom-Flower-Boutique/static/js/main.e7534129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7f100d.css",
+    "static/js/main.e7534129.js"
+  ]
+}
