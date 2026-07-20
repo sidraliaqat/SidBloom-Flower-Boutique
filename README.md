@@ -2,6 +2,7 @@
 
 A beautiful, responsive flower shop website built with React. Browse, search, filter, and sort through 45+ beautiful flowers with a stunning custom color palette.
 
+---
 
 ## ✨ Features
 
